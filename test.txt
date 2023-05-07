@@ -1,1 +1,2 @@
 This is rebase branch test.
+This is master branch.
