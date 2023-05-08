@@ -1,1 +1,1 @@
-This is hotfix test.
+This is merge branch test.
