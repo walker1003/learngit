@@ -1,3 +1,5 @@
 This is rebase branch test.
 This is master branch.
 This is hotfix test.
+This is merge branch test.
+This is rebase branch test.
