@@ -1,1 +1,2 @@
 This is merge branch test.
+This is rebase branch test.
